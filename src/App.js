@@ -53,7 +53,7 @@ class App extends Component{
 
       {/* <header className="App-header"></header> */}
       <header>
-        <section id="logo"> <img src="/assets/logoNASA.png"/> </section>
+        <section id="logo"> <img src="./logoNASA.png"/> </section>
         <h2>NASA</h2>
       </header>
       
