@@ -1,8 +1,6 @@
 import { Component } from "react";
 import Home from './components/home/home';
 import Detail from './components/detalle/detail';
-import Particles from 'react-particles-js';
-import particlesConfig from './config/particlesConfig';
 import './App.css';
 
 class App extends Component{
@@ -52,10 +50,10 @@ class App extends Component{
     <div className="App" > 
 
       {/* <header className="App-header"></header> */}
-      <header>
+      {/* <header>
         <section id="logo"> <img src="./assets/logoNASA.png"/> </section>
         <h2>NASA</h2>
-      </header>
+      </header> */}
       
                 
 
